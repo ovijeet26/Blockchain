@@ -1,0 +1,6 @@
+C:\Users\csircao\Desktop\Secure Development\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+C:\Users\csircao\Desktop\Secure Development\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+C:\Users\csircao\Desktop\Secure Development\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+C:\Users\csircao\Desktop\Secure Development\BlockChain\BlockChain\obj\Debug\BlockChain.csprojResolveAssemblyReference.cache
+C:\Users\csircao\Desktop\Secure Development\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+C:\Users\csircao\Desktop\Secure Development\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
